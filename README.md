@@ -1,6 +1,5 @@
-# Aman_Java
 
-## Cricket Player Performance Prediction for 2025
+# Cricket Player Performance Prediction for 2025
 
 
 ---
